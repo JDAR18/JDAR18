@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JDAR18
-- 👀 I’m interested in motorcycles 
-- 🌱 I’m currently learning fast
-- 💞️ I’m looking to collaborate on Isle of Man tt
-- 📫 How to reach me ...
+- 👀 I’m interested in change 
+- 🌱 I’m currently learning
+- 💞️ I’m looking for a job
 
 <!---
 JDAR18/JDAR18 
